@@ -1,0 +1,3 @@
+color_main =
+color_filter = 
+style = 
